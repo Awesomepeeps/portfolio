@@ -50,12 +50,12 @@ function processCommand(cmd) {
       return '<a href="mailto:Nikaansh.singh@gmail.com?subject=Hello%20There&body=I%20wanted%20to%20reach%20out...">Email me (Nikaansh.singh@gmail.com)</a>';
 
     case "open github":
-      const githubLink = "https://github.com/NikaanshSingh/";
+      const githubLink = bioData.githubLink;
       window.open(githubLink, "_blank", "noopener,noreferrer");
       return `<a href="${githubLink}" target="_blank" rel="noopener noreferrer">View Github</a>`;
 
     case "open linkedin":
-      const linkedinLink = "https://www.linkedin.com/in/Nikaansh-singh/";
+      const linkedinLink = bioData.linkedinLink;
       window.open(linkedinLink, "_blank", "noopener,noreferrer");
       return `<a href="${linkedinLink}" target="_blank" rel="noopener noreferrer">View Linkedin</a>`;
 
