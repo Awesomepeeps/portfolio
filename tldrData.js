@@ -76,30 +76,6 @@ const tldrItems = [
     ascii_image_length: 428,
     asciiLargeOrSmall: "small",
   },
-  {
-    title: "Software Engineer at Pacer",
-    link: "https://Nikaansh.myportfolio.com/pacer",
-    type: "internship",
-    image: "img/pacer.png",
-    description: "Part-Time Software Engineer",
-    date: "2025-06-01",
-    favorite: 87,
-    ascii_image: "ascii_art/pacer.txt",
-    ascii_image_length: 500,
-    asciiLargeOrSmall: "large",
-  },
-  {
-    title: "Software Intern at Mach Industries",
-    link: "https://Nikaansh.myportfolio.com/mach-industries",
-    type: "internship",
-    image: "img/mach.png",
-    description: "Summer 2024 Computer Science Internship",
-    date: "2024-08-01",
-    favorite: 90,
-    ascii_image: "ascii_art/mach.txt",
-    ascii_image_length: 500,
-    asciiLargeOrSmall: "large",
-  },
 ];
 
 // Replace these with your actual tldr data from tldrData.js if available.
