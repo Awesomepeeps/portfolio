@@ -66,7 +66,7 @@ const tldrItems = [
   },
   {
     title: "Congressional App Challenge",
-    link: "https://www.youtube.com/watch?v=tSsccfvrq2g&embeds_referring_euri=https%3A%2F%2Fnikaansh.myportfolio.com%2F&source_ve_path=Mjg2NjY",
+    link: "https://nikaansh.myportfolio.com/congressional-app-challenge",
     type: "project",
     image: "img/App-Challenge.jpg",
     description: "Built an App for the congressional app challenge",
